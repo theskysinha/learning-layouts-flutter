@@ -1,0 +1,2 @@
+<h1> Learning layouts with flutter</h1>
+This was an project to polish my layout skills with flutter. Objective was making a basic rip-off of google maps description page and this seems close enough, right?
