@@ -1,2 +1,2 @@
 <h1> Learning layouts with flutter</h1>
-This was an project to polish my layout skills with flutter. Objective was making a basic rip-off of google maps description page and this seems close enough, right?
+This was an project to polish my layout skills with flutter. Objective was making a basic rip-off of google maps description page and this seems close enough, right? I got to learn about how to perfect lay my application out as well as about how to add a lil spice of interactivity.
